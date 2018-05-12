@@ -1,10 +1,16 @@
 _repo: Some-Noble-Sisters_46698
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46698-h/images/cover.jpg
 creator:
   author:
     agent_name: Lee, Edmund
     gutenberg_agent_id: '41209'
     url: http://www.gutenberg.org/2009/agents/41209
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46698#Some-Noble-Sisters
 gutenberg_issued: '2014-08-26'
 gutenberg_type: Text
 identifiers:
